@@ -9,6 +9,12 @@
 ## What I use to code | Languages I code with
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
+## My main Discord Bot
+
+<a href="https://top.gg/bot/734974153630810245">
+    <img src="https://top.gg/api/widget/734974153630810245.svg" alt="Meteoric" />
+</a>
+
 ## My GitHub Stats
 
 <a href="https://github.com/Drakmario/Drakmario">
